@@ -8,4 +8,4 @@ It doesn’t tell the user that negative numbers are not an option if a user tri
 Program crashes if letters are entered.
 When decimals below one are entered, it doesn’t express what triangle it is. 
 
-It will be a blessing to work with you sir. Let me know if there is anything more that I can do to help. 
+It will be a blessing to work with you sir. Let me know if there is anything more that I can do to help. :) 
